@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1360.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.ViewController">
+   <children>
+      <TextField fx:id="txtRESSMD33K" layoutX="44.0" layoutY="538.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD10K1P" layoutX="44.0" layoutY="378.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD3K" layoutX="44.0" layoutY="458.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD10" layoutX="44.0" layoutY="618.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD40K" layoutX="44.0" layoutY="498.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD4K75" layoutX="44.0" layoutY="578.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD68K" layoutX="44.0" layoutY="418.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD10K5P" layoutX="44.0" layoutY="338.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD4K7" layoutX="44.0" layoutY="298.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD18K" layoutX="44.0" layoutY="658.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD9K" layoutX="200.0" layoutY="298.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD20K" layoutX="200.0" layoutY="338.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD5K" layoutX="200.0" layoutY="418.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD3K57" layoutX="200.0" layoutY="378.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD0R" layoutX="200.0" layoutY="458.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPTAN10UF" layoutX="200.0" layoutY="498.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPSMD100NF" layoutX="200.0" layoutY="578.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPSMD47PF" layoutX="200.0" layoutY="538.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPCER56NF" layoutX="200.0" layoutY="658.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPCER100PF" layoutX="200.0" layoutY="618.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPCER270NF" layoutX="360.0" layoutY="298.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPCER2UF" layoutX="360.0" layoutY="338.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtINDEMI100V" layoutX="360.0" layoutY="418.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPCER100NF" layoutX="360.0" layoutY="378.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPELE330UF" layoutX="360.0" layoutY="458.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPSMD10UF" layoutX="360.0" layoutY="498.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD560" layoutX="360.0" layoutY="578.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtDIOTVS33V" layoutX="360.0" layoutY="538.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD2K2" layoutX="360.0" layoutY="658.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD820" layoutX="360.0" layoutY="618.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD22K" layoutX="519.0" layoutY="298.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPSMD2UF" layoutX="519.0" layoutY="338.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPSMD10NF" layoutX="519.0" layoutY="418.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPSMD27PF" layoutX="519.0" layoutY="378.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtINDBEAD220" layoutX="519.0" layoutY="458.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtTRANSNPN45V" layoutX="519.0" layoutY="498.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtDIOTVS6V" layoutX="519.0" layoutY="578.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtTRANSPNP45V" layoutX="519.0" layoutY="538.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtDIOSMD600V" layoutX="519.0" layoutY="658.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtDIOTVS36V" layoutX="519.0" layoutY="618.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCAPELE22UF" layoutX="675.0" layoutY="298.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCILDO3V" layoutX="675.0" layoutY="338.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCISMD2LAT" layoutX="675.0" layoutY="418.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCIOPAMP2374" layoutX="675.0" layoutY="378.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCIDAR7" layoutX="675.0" layoutY="458.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtRESSMD15K" layoutX="675.0" layoutY="498.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCISMD1CH" layoutX="675.0" layoutY="578.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCIQUAD2IN" layoutX="675.0" layoutY="538.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCIMEM4MBIT" layoutX="675.0" layoutY="658.0" prefHeight="25.0" prefWidth="47.0" />
+      <TextField fx:id="txtCIOPAMP36V" layoutX="675.0" layoutY="618.0" prefHeight="25.0" prefWidth="47.0" />
+      <Label layoutX="97.0" layoutY="302.0" text="RESSMD4K7" />
+      <Label layoutX="97.0" layoutY="342.0" text="RESSMD10K5P" />
+      <Label layoutX="97.0" layoutY="382.0" text="RESSMD10K1P" />
+      <Label layoutX="97.0" layoutY="422.0" text="RESSMD68K" />
+      <Label layoutX="97.0" layoutY="462.0" text="RESSMD3K" />
+      <Label layoutX="97.0" layoutY="502.0" text="RESSMD40K" />
+      <Label layoutX="97.0" layoutY="542.0" text="RESSMD33K" />
+      <Label layoutX="97.0" layoutY="582.0" text="RESSMD4K75" />
+      <Label layoutX="97.0" layoutY="622.0" text="RESSMD10" />
+      <Label layoutX="97.0" layoutY="662.0" text="RESSMD18K" />
+      <Label layoutX="253.0" layoutY="302.0" text="RESSMD9K" />
+      <Label layoutX="253.0" layoutY="342.0" text="RESSMD20K" />
+      <Label layoutX="253.0" layoutY="382.0" text="RESSMD3K57" />
+      <Label layoutX="253.0" layoutY="422.0" text="RESSMD5K" />
+      <Label layoutX="253.0" layoutY="462.0" text="RESSMD0R" />
+      <Label layoutX="253.0" layoutY="502.0" text="CAPTAN10UF" />
+      <Label layoutX="253.0" layoutY="542.0" text="CAPSMD47PF" />
+      <Label layoutX="253.0" layoutY="582.0" text="CAPSMD100NF" />
+      <Label layoutX="253.0" layoutY="622.0" text="CAPCER100PF" />
+      <Label layoutX="253.0" layoutY="662.0" text="CAPCER56NF" />
+      <Label layoutX="414.0" layoutY="302.0" text="CAPCER270NF" />
+      <Label layoutX="414.0" layoutY="342.0" text="CAPCER2UF" />
+      <Label layoutX="414.0" layoutY="382.0" text="CAPCER100NF" />
+      <Label layoutX="414.0" layoutY="422.0" text="INDEMI100V" />
+      <Label layoutX="414.0" layoutY="462.0" text="CAPELE330UF" />
+      <Label layoutX="414.0" layoutY="502.0" text="CAPSMD10UF" />
+      <Label layoutX="414.0" layoutY="542.0" text="DIOTVS33V" />
+      <Label layoutX="414.0" layoutY="582.0" text="RESSMD560" />
+      <Label layoutX="414.0" layoutY="622.0" text="RESSMD820" />
+      <Label layoutX="414.0" layoutY="662.0" text="RESSMD2K2" />
+      <Label layoutX="573.0" layoutY="302.0" text="RESSMD22K" />
+      <Label layoutX="573.0" layoutY="342.0" text="CAPSMD2UF" />
+      <Label layoutX="573.0" layoutY="382.0" text="CAPSMD27PF" />
+      <Label layoutX="573.0" layoutY="422.0" text="CAPSMD10NF" />
+      <Label layoutX="573.0" layoutY="462.0" text="INDBEAD220" />
+      <Label layoutX="573.0" layoutY="502.0" text="TRANSNPN45V" />
+      <Label layoutX="573.0" layoutY="542.0" text="TRANSPNP45V" />
+      <Label layoutX="573.0" layoutY="582.0" text="DIOTVS6V" />
+      <Label layoutX="573.0" layoutY="622.0" text="DIOTVS36V" />
+      <Label layoutX="573.0" layoutY="662.0" text="DIOSMD600V" />
+      <Label layoutX="729.0" layoutY="302.0" text="CAPELE22UF" />
+      <Label layoutX="729.0" layoutY="342.0" text="CILDO3V" />
+      <Label layoutX="729.0" layoutY="382.0" text="CIOPAMP2374" />
+      <Label layoutX="729.0" layoutY="422.0" text="CISMD2LAT" />
+      <Label layoutX="729.0" layoutY="462.0" text="CIDAR7" />
+      <Label layoutX="729.0" layoutY="502.0" text="RESSMD15K" />
+      <Label layoutX="729.0" layoutY="542.0" text="CIQUAD2IN" />
+      <Label layoutX="729.0" layoutY="582.0" text="CISMD1CH" />
+      <Label layoutX="729.0" layoutY="622.0" text="CIOPAMP36V" />
+      <Label layoutX="729.0" layoutY="662.0" text="CIMEM4MBIT" />
+      <Button fx:id="calcular" layoutX="827.0" layoutY="658.0" mnemonicParsing="false" onAction="#calcular" text="Calcular" />
+    
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="75.0" layoutY="48.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/logo.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="293.0" layoutY="121.0" text="Planejamento de Produção">
+         <font>
+            <Font size="38.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="774.0" layoutY="120.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/cemig.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>
